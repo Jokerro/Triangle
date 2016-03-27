@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  TGA.cpp
+  MemoryOperators.cpp
+  MemoryManager.cpp
+  Math.cpp
+d:\game_dev\gameloftcourse\trainingframework\newtrainingframework\utilities\math.cpp(10): warning C4244: return: преобразование "double" в "GLfloat", возможна потеря данных
+d:\game_dev\gameloftcourse\trainingframework\newtrainingframework\utilities\math.cpp(104): warning C4244: return: преобразование "double" в "GLfloat", возможна потеря данных
+d:\game_dev\gameloftcourse\trainingframework\newtrainingframework\utilities\math.cpp(208): warning C4244: return: преобразование "double" в "GLfloat", возможна потеря данных
+  esUtil_win.cpp
+  esUtil.cpp
+  esShader.cpp
+  Создание кода...
+  Utilities.vcxproj -> D:\Game_DEV\GameloftCourse\TrainingFramework\NewTrainingFramework\Debug\Utilities.lib
